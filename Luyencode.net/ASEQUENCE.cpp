@@ -22,3 +22,36 @@ int main(){
 	else cout<<"NO";
 	return 0;
 }
+/*
+#include <bits/stdc++.h>
+#include <algorithm>
+#include <string.h>
+using namespace std;
+void hamnhap(long long a[], int n)
+{
+    for (int i = 1; i <= n; i++)
+        cin >> a[i];
+}
+int kt(long long a[], int n, long long d)
+{
+    for (int i = 3; i <= n; i++)
+    {
+        if (a[i] - a[i - 1] != d)
+            return 0;
+    }
+    return 1;
+}
+int main()
+{
+    int n;
+    long long a[1000001];
+    cin >> n;
+    hamnhap(a, n);
+    long long d = a[2] - a[1];
+    if (kt(a, n, d) == 1)
+        cout << "YES";
+    else
+        cout << "NO";
+    return 0;
+}
+*/ 
