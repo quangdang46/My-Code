@@ -1,6 +1,6 @@
 
 ##
-- Hướng giải quyết có thể chưa tối ưu, code chỉ mang tính chất tham khảo!
+- Hướng giải quyết có thể chưa tối ưu, code chỉ tham khảo!
 ## Main
 -Một số trang ở trên:
 - [CodeForces](https://codeforces.com/)
