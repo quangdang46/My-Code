@@ -1,6 +1,6 @@
 
 ##
-- Hướng giải quyết có thể chưa tối ưu, code chỉ tham khảo!
+- Hướng giải quyết lúc trong cơn mê, code chỉ tham khảo!
 ## Main
 -Một số trang ở trên:
 - [CodeForces](https://codeforces.com/)
