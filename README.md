@@ -2,7 +2,7 @@
 ##
 - Hướng giải quyết lúc trong cơn mê, code chỉ tham khảo!
 ## Main
--Một số trang ở trên:
+-Một số trang mình làm ở trên:
 - [CodeForces](https://codeforces.com/)
 - [Luyen Code](https://luyencode.net)
 - [HackerRank](https://www.hackerrank.com/)
