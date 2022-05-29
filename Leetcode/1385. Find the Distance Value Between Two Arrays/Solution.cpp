@@ -18,3 +18,27 @@ public:
         return result + arr1.size() - i;
     }
 };
+
+
+
+class Solution
+{
+public:
+    int findTheDistanceValue(vector<int> &arr1, vector<int> &arr2, int d)
+    {
+        int count = arr1.size();
+        for (int a : arr1)
+        {
+            for (int b : arr2)
+            {
+                if (abs(a - b) <= d)
+                {
+                    count--;
+                    break;
+                }
+            }
+        }
+
+        return count;
+    }
+};
